@@ -4,7 +4,7 @@
   git config --global user.name 'Yuguohugo'     //注意是user.name
   
 2、设置用户名邮箱
-  git config --global user.name 'XXXXXXX@icloud.com'
+  git config --global user.email 'XXXXXXX@icloud.com'
         
         以上设置反映在github仓库主页上显示谁提交了该文件
 
